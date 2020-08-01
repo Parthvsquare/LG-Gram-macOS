@@ -52,3 +52,14 @@
 - Intel网卡、SD读卡器、指纹，全球无解；
 - 遗留小问题
   - 无法使用FN 调节亮度（需要定制dsdt懒得弄了，可自定义系统快捷键解决）%
+
+
+## added additional support
+- From OpenIntelwireless
+- heliport working (tested on lg gram 14 980)
+- bluetooth working 
+- trackpad full guesture support 
+
+## working on 
+- fn support (you can use karabiner-elements)
+- airdrop will hopefully work (depends on the progress of openintelwireless)
