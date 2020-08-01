@@ -59,7 +59,7 @@
 - heliport working (tested on lg gram 14 980)
 - bluetooth working 
 - trackpad full guesture support 
-
+----
 ## working on 
 - fn support (you can use karabiner-elements)
 - airdrop will hopefully work (depends on the progress of openintelwireless)
